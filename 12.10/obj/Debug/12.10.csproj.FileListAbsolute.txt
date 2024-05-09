@@ -1,0 +1,7 @@
+D:\Visual Studio projects\12.10\12.10\obj\Debug\12.10.csproj.AssemblyReference.cache
+D:\Visual Studio projects\12.10\12.10\obj\Debug\12.10.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\12.10\12.10\bin\Debug\12.10.exe.config
+D:\Visual Studio projects\12.10\12.10\bin\Debug\12.10.exe
+D:\Visual Studio projects\12.10\12.10\bin\Debug\12.10.pdb
+D:\Visual Studio projects\12.10\12.10\obj\Debug\12.10.exe
+D:\Visual Studio projects\12.10\12.10\obj\Debug\12.10.pdb
